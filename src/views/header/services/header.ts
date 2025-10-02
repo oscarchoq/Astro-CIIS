@@ -41,4 +41,3 @@ const navItems: NavItemProps[] = [
 ];
 
 export default navItems;
-
