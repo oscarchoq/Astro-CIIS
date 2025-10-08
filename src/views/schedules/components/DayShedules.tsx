@@ -100,7 +100,7 @@ export const DaySchedules = ({ponentes, day, date}: props) => {
         : ""
       }
       {
-        capitalizeFirstLetter(day) == "Jueves" ? 
+        capitalizeFirstLetter(day) == "Martes" ? 
         <CardAlmuerzo 
           classname="bg-violet-600"
           time="14:00 - 16:00"
